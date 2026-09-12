@@ -1,0 +1,573 @@
+[
+  {
+    "timestamp": "2026-07-25T17:40:25.611518",
+    "target": "google.com",
+    "type": "A",
+    "results": [
+      "IP: 192.178.158.100",
+      "IP: 192.178.158.113",
+      "IP: 192.178.158.139",
+      "IP: 192.178.158.101",
+      "IP: 192.178.158.138",
+      "IP: 192.178.158.102"
+    ]
+  },
+  {
+    "timestamp": "2026-07-25T17:40:27.814781",
+    "target": "google.com",
+    "type": "MX",
+    "results": [
+      "Priority: 10 \u2192 smtp.google.com."
+    ]
+  },
+  {
+    "timestamp": "2026-07-25T17:45:38.161127",
+    "target": "GOOGLE.COM",
+    "type": "A",
+    "results": [
+      "IP: 192.178.158.113",
+      "IP: 192.178.158.139",
+      "IP: 192.178.158.101",
+      "IP: 192.178.158.102",
+      "IP: 192.178.158.138",
+      "IP: 192.178.158.100"
+    ]
+  },
+  {
+    "timestamp": "2026-07-25T17:45:39.339375",
+    "target": "GOOGLE.COM",
+    "type": "MX",
+    "results": [
+      "Priority: 10 \u2192 smtp.GOOGLE.COM."
+    ]
+  },
+  {
+    "timestamp": "2026-07-25T17:45:55.107381",
+    "target": "GOOGLE.COM",
+    "type": "TXT",
+    "results": [
+      "Error: sequence item 0: expected str instance, bytes found"
+    ]
+  },
+  {
+    "timestamp": "2026-07-25T17:45:58.002946",
+    "target": "GOOGLE.COM",
+    "type": "NS",
+    "results": [
+      "Nameserver: ns4.GOOGLE.COM.",
+      "Nameserver: ns3.GOOGLE.COM.",
+      "Nameserver: ns1.GOOGLE.COM.",
+      "Nameserver: ns2.GOOGLE.COM."
+    ]
+  },
+  {
+    "timestamp": "2026-07-25T17:46:01.651978",
+    "target": "192.167.167.167",
+    "type": "REVERSE",
+    "results": [
+      "PTR Record: aerosol.bo.isac.cnr.it."
+    ]
+  },
+  {
+    "timestamp": "2026-07-25T17:46:06.352373",
+    "target": "GOOGLE.COM",
+    "type": "FULL",
+    "results": [
+      "{'A': ['IP: 192.178.158.100', 'IP: 192.178.158.138', 'IP: 192.178.158.102', 'IP: 192.178.158.101', 'IP: 192.178.158.139', 'IP: 192.178.158.113'], 'MX': ['Priority: 10 \u2192 smtp.GOOGLE.COM.'], 'TXT': ['Error: sequence item 0: expected str instance, bytes found'], 'NS': ['Nameserver: ns2.GOOGLE.COM.', 'Nameserver: ns4.GOOGLE.COM.', 'Nameserver: ns3.GOOGLE.COM.', 'Nameserver: ns1.GOOGLE.COM.']}"
+    ]
+  },
+  {
+    "timestamp": "2026-07-25T17:53:47.262885",
+    "target": "GOOGLE.COM",
+    "type": "A",
+    "results": [
+      "IP: 192.178.158.101",
+      "IP: 192.178.158.113",
+      "IP: 192.178.158.100",
+      "IP: 192.178.158.102",
+      "IP: 192.178.158.138",
+      "IP: 192.178.158.139"
+    ]
+  },
+  {
+    "timestamp": "2026-07-25T17:53:48.161175",
+    "target": "GOOGLE.COM",
+    "type": "MX",
+    "results": [
+      "Priority: 10 \u2192 smtp.GOOGLE.COM."
+    ]
+  },
+  {
+    "timestamp": "2026-07-25T17:53:48.991728",
+    "target": "GOOGLE.COM",
+    "type": "TXT",
+    "results": [
+      "Error: sequence item 0: expected str instance, bytes found"
+    ]
+  },
+  {
+    "timestamp": "2026-07-25T17:53:49.516877",
+    "target": "GOOGLE.COM",
+    "type": "NS",
+    "results": [
+      "Nameserver: ns4.GOOGLE.COM.",
+      "Nameserver: ns1.GOOGLE.COM.",
+      "Nameserver: ns3.GOOGLE.COM.",
+      "Nameserver: ns2.GOOGLE.COM."
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T09:32:49.029872",
+    "target": "google.com",
+    "type": "A",
+    "results": [
+      "IP: 142.250.193.46"
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T09:46:19.536759",
+    "target": "google.com",
+    "type": "MX",
+    "results": [
+      "Priority: 10 \u2192 smtp.google.com."
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T09:46:34.737316",
+    "target": "google.com",
+    "type": "TXT",
+    "results": [
+      "Error: sequence item 0: expected str instance, bytes found"
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T09:46:48.748877",
+    "target": "google.com",
+    "type": "NS",
+    "results": [
+      "Nameserver: ns1.google.com.",
+      "Nameserver: ns4.google.com.",
+      "Nameserver: ns3.google.com.",
+      "Nameserver: ns2.google.com."
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T09:47:30.710836",
+    "target": "142.250.193.46",
+    "type": "REVERSE",
+    "results": [
+      "PTR Record: del11s15-in-f14.1e100.net.",
+      "PTR Record: tzdelb-ao-in-f14.1e100.net."
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T09:48:00.115073",
+    "target": "amazon.in",
+    "type": "TXT",
+    "results": [
+      "Error: sequence item 0: expected str instance, bytes found"
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T09:49:44.916363",
+    "target": "amazon.com",
+    "type": "FULL",
+    "results": [
+      "{'A': ['IP: 98.87.170.74', 'IP: 98.87.170.71', 'IP: 98.82.161.185'], 'MX': ['Priority: 5 \u2192 amazon-smtp.amazon.com.'], 'TXT': ['Error: The resolution lifetime expired after 5.414 seconds: Server Do53:192.168.43.1@53 answered The DNS operation timed out.; Server Do53:192.168.43.1@53 answered The DNS operation timed out.; Server Do53:192.168.43.1@53 answered The DNS operation timed out.'], 'NS': ['Nameserver: ns-1447.awsdns-52.org.', 'Nameserver: ns-1707.awsdns-21.co.uk.', 'Nameserver: ns-264.awsdns-33.com.', 'Nameserver: ns-521.awsdns-01.net.']}"
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T12:56:34.063760",
+    "target": "chatgpt.com",
+    "type": "TXT",
+    "results": [
+      "Error: sequence item 0: expected str instance, bytes found"
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T12:57:01.604059",
+    "target": "snapchat.com",
+    "type": "TXT",
+    "results": [
+      "Error: sequence item 0: expected str instance, bytes found"
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T12:57:16.351108",
+    "target": "cgc.ac.in",
+    "type": "TXT",
+    "results": [
+      "Error: sequence item 0: expected str instance, bytes found"
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T13:00:58.360526",
+    "target": "google.com",
+    "type": "TXT",
+    "results": [
+      "Error: sequence item 0: expected str instance, bytes found"
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T13:01:09.701499",
+    "target": "facebook.com",
+    "type": "TXT",
+    "results": [
+      "Error: sequence item 0: expected str instance, bytes found"
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T13:01:30.519013",
+    "target": "wscubetech.com",
+    "type": "TXT",
+    "results": [
+      "Error: sequence item 0: expected str instance, bytes found"
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T13:01:40.606165",
+    "target": "myntra.com",
+    "type": "TXT",
+    "results": [
+      "Error: sequence item 0: expected str instance, bytes found"
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T13:07:40.253911",
+    "target": "google.com",
+    "type": "TXT",
+    "results": [
+      "Error: sequence item 0: expected str instance, bytes found"
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T13:07:53.421221",
+    "target": "meesho.com",
+    "type": "TXT",
+    "results": [
+      "Error: sequence item 0: expected str instance, bytes found"
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T13:08:12.262555",
+    "target": "savana.com",
+    "type": "TXT",
+    "results": [
+      "Error: sequence item 0: expected str instance, bytes found"
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T13:08:22.217082",
+    "target": "flipkart.com",
+    "type": "TXT",
+    "results": [
+      "Error: sequence item 0: expected str instance, bytes found"
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T13:20:30.438476",
+    "target": "facebook.com",
+    "type": "TXT",
+    "results": [
+      "TXT: google-site-verification=wdH5DTJTc9AYNwVunSVFeK0hYDGUIEOGb-RReU6pJlY",
+      "TXT: google-site-verification=sK6uY9x7eaMoEMfn3OILqwTFYgaNp4llmguKI-C3_iA",
+      "TXT: google-site-verification=A2WZWCNQHrGV_TWwKh6KHY90tY0SHZo_RnyMJoDaG0s",
+      "TXT: facebook-domain-verification=y7isfmi3kzyg1r4wophh9vyb6pgbda",
+      "TXT: zoom-domain-verification=4b2ef4e1-6dee-4483-9869-9bef353fd147",
+      "TXT: v=spf1 redirect=_spf.facebook.com"
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T13:21:56.699426",
+    "target": "google.com",
+    "type": "TXT",
+    "results": [
+      "TXT: v=spf1 include:_spf.google.com ~all",
+      "TXT: facebook-domain-verification=22rm551cu4k0ab0bxsw536tlds4h95",
+      "TXT: docusign=05958488-4752-4ef2-95eb-aa7ba8a3bd0e",
+      "TXT: google-site-verification=4ibFUgB-wXLQ_S7vsXVomSTVamuOXBiVAzpR5IZ87D0",
+      "TXT: google-site-verification=TV9-DBe4R80X4v0M4U_bd_J9cpOJM0nikft0jAgjmsQ",
+      "TXT: apple-domain-verification=30afIBcvSuDV2PLX",
+      "TXT: google-site-verification=wD8N7i1JTNTkezJ49swvWW48f8_9xveREV4oB-0Hf5o",
+      "TXT: cisco-ci-domain-verification=47c38bc8c4b74b7233e9053220c1bbe76bcc1cd33c7acf7acd36cd6a5332004b",
+      "TXT: Z29vZ2xl",
+      "TXT: work-accounts-domain-verification=Tcj6JjIMZOw2KsSEw2Nt2rLae89tN6",
+      "TXT: onetrust-domain-verification=6d685f1d41a94696ad7ef771f68993e0",
+      "TXT: globalsign-smime-dv=CDYX+XFHUw2wml6/Gb8+59BsH31KzUr6c1l2BPvqKX8=",
+      "TXT: MS=E4A68B9AB2BB9670BCE15412F62916164C0B20BB",
+      "TXT: docusign=1b0a6754-49b1-4db5-8540-d2c12664b289",
+      "TXT: onetrust-domain-verification=0d477fe608074e6f9c12bca7826035cc"
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T14:27:51.864669",
+    "target": "microsoft.com",
+    "type": "A",
+    "results": [
+      "IP: 13.107.213.48",
+      "IP: 13.107.246.48"
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T14:28:05.567138",
+    "target": "microsoft.com",
+    "type": "MX",
+    "results": [
+      "Priority: 10 \u2192 microsoft-com.mail.protection.outlook.com."
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T14:31:52.264548",
+    "target": "microsoft.com",
+    "type": "TXT",
+    "results": [
+      "TXT: d365mktkey=3uc1cf82cpv750lzk70v9bvf2",
+      "TXT: facebook-domain-verification=fwzwhbbzwmg5fzgotc2go51olc3566",
+      "TXT: google-site-verification=pjPOauSPcrfXOZS9jnPPa5axowcHGCDAl1_86dCqFpk",
+      "TXT: fg2t0gov9424p2tdcuo94goe9j",
+      "TXT: t7sebee51jrj7vm932k531hipa",
+      "TXT: google-site-verification=M--CVfn_YwsV-2FGbCp_HFaEj23BmT0cTF4l8hXgpvM",
+      "TXT: google-site-verification=GfDnTUdATPsK1230J0mXbfsYw-3A9BVMVaKSd4DcKgI",
+      "TXT: d365mktkey=SxDf1EZxLvMwx6eEZUxzjFFgHoapF8DvtWEUjwq7ZTwx",
+      "TXT: hubspot-developer-verification=OTQ5NGIwYWEtODNmZi00YWE1LTkyNmQtNDhjMDMxY2JjNDAx",
+      "TXT: d365mktkey=QDa792dLCZhvaAOOCe2Hz6WTzmTssOp1snABhxWibhMx",
+      "TXT: d365mktkey=6358r1b7e13hox60tl1uagv14",
+      "TXT: google-site-verification=uFg3wr5PWsK8lV029RoXXBBUW0_E6qf1WEWVHhetkOY",
+      "TXT: docusign=d5a3737c-c23c-4bd0-9095-d2ff621f2840",
+      "TXT: d365mktkey=j2qHWq9BHdaa3ZXZH8x64daJZxEWsFa0dxDeilxDoYYx",
+      "TXT: atlassian-domain-verification=xvoaqRfxSg3PnlVnR4xCSOlKyw1Aln0MMxRiKXnwWroFG7vI76TUC8xYb03MwMXv",
+      "TXT: workplace-domain-verification=lK0QDLk73xymCYMKUXNpfKAT8TY5Mx",
+      "TXT: google-site-verification=uhh5_jbxpcQgnb-A7gDIjlrr5Ef34lA2t2_BAveYpnk",
+      "TXT: MS=ms79629062",
+      "TXT: d365mktkey=3l6dste9txazu0Qd2zu4135PUB4E35txLxyzJxjkPbsx",
+      "TXT: d365mktkey=wbU64GRacxVEQxwcLSQnx0zisXLYzgUbfvsufIqO9ZUx",
+      "TXT: linear-domain-verification=iuq6saifcnbe",
+      "TXT: d365mktkey=ZGFU0tlXPekPusNHPo5QQQWpVf0gic0xpuKroNy3NQEx",
+      "TXT: d365mktkey=JlXV17lfZjyvWxNje1qiP390ACSKzTxo5mGqZ3V2BmYx",
+      "TXT: google-site-verification=mEAmcTy1e8jIB9W6ENPk2GDg9hjuNytQQRGlK0hPm0c",
+      "TXT: d365mktkey=PNcDqkW71x8VOUhcE96aGM4l5PYX1gnlRl6ieXUl5eMx",
+      "TXT: d365mktkey=Fu49WtSTeClkHtK7S14227RIVpGwwGrzEsO6RVs1I2Ax",
+      "TXT: ms-domain-verification=25524f4b-1476-489c-a086-30f4c5016ecc",
+      "TXT: ms-domain-verification=1c4e4677-e58f-4117-8d61-e5b2810388c2",
+      "TXT: mixpanel-domain-verify=5803bc4c-5bb6-4ce1-8076-753800097373",
+      "TXT: sitecore-domain-verification=1d46cb5467624e33a408d14324874088",
+      "TXT: ms-domain-verification=478640ad-6524-43d5-86c4-a914804b9e93",
+      "TXT: ms-domain-verification=561512fc-b4ba-4ac7-a946-e464c8f49f1b",
+      "TXT: _zx2p8gpzv720db2aqmozy4jhwk2nl43",
+      "TXT: airtable-verification=79a09e4a8013ff5737798ffb4ea88eee",
+      "TXT: 1password-site-verification=35ZTURTFFFDC5BW7GFQKRJ77QM",
+      "TXT: d365mktkey=8fEQahTresJms7tZGxGFr94T1zDz36oCbUt1LJc99mox",
+      "TXT: d365mktkey=heYmJ57sWrwMjCgIG1xRwTREJrQokUIDtBcNfGuxoWQx",
+      "TXT: ms-domain-verification=d6545068-89f7-4432-b947-0b137e8a9fe3",
+      "TXT: hcp-domain-verification=3ce174a8b9fba88909633ab13eb1d81ce0123454745d66e500052ed84b7248a1",
+      "TXT: v=MCPv1; k=ecdsap384; p=As/XxnDWZFxFwHvRZj+HbG5/ImtAeabLkiOWu1h7wCJQFAR216E9HoYQ5Hy6o7StoQ==",
+      "TXT: v=MCPv1; k=ecdsap384; p=AoHTKEi2W8L2P8cf9CoDicIxYiuttTkwtIeFOqYCewBGoRZiiF+9/92saUkIDERGAA==",
+      "TXT: v=spf1 include:_spf-a.microsoft.com include:_spf-b.microsoft.com include:_spf-c.microsoft.com include:_spf-ssg-a.msft.net include:_spf1-meo.microsoft.com -all",
+      "TXT: ms-domain-verification=65f91178-9dfb-41cd-929d-08d1a38ed607",
+      "TXT: v=MCPv1; k=ecdsap384; p=Asc8WWov6gsmCCzn4CSrwRuJIh5SqvaitKz/LlTW+SD54lLC52wzcnWhlTI416p2vw==",
+      "TXT: liveramp-site-verification=kxcV8fDH_FUNUZQEcAO6lwgim47f_hNLgMP4VG0PF_Q",
+      "TXT: v=MCPv1; k=ecdsap384; p=AqXeTHJ/1FCYeuvJ8dc1B+X3uHaa7m2W0s31vzL4opnrJlSaBdtbWTY8Ti5WiZnu9Q==",
+      "TXT: v=MCPv1; k=ecdsap384; p=An4mJIFLRys9h1EvjX18SJs5p1uEF5MHcs2JJLYPrI48C5Qt9FpaZEM0sQTV4JvNYw==",
+      "TXT: v=MCPv1; k=ecdsap384; p=A/Mf6IKdZzcHfBvpiVz9rkdPTIcCP5IbRDdEkeP3PgXEXF3mNjorahOwaYlMINBF5A==",
+      "TXT: v=MCPv1; k=ecdsap384; p=A8qndBCDJGtFF2+3v/IPIMmM0SaVcrJBoSue7rKob6sUeK7QGeFuWkrtvze3AiqUDA==",
+      "TXT: zoom-domain-verification=ZOOM_verify_e97a3d385acb4c47b9b924609a280524",
+      "TXT: anthropic-domain-verification-phksss=GZrrKDUR4klRLFCvxyOvqcNGE",
+      "TXT: v=MCPv1; k=ecdsap384; p=Al9O7vaY4u02Vzh6c6i9ie3AFUHq9j3VK9rFROTJsCx5Rh0ailSEc3/k8fyCbjrHLQ==",
+      "TXT: v=MCPv1; k=ecdsap384; p=Atv9t87le3AkxabGQAy75Wju8M3YATC1mPNp/3BQepwz5KS+4VwTtTq7ZSjHAPFXzw==",
+      "TXT: v=MCPv1; k=ecdsap384; p=Azw9+u4M8RoH+bxJidKAZzGDmsPkzY1N4cO7rB/uC5x1RBoNfMyBlH/ott0lpo4pOQ==",
+      "TXT: dobtdihqagnr18hea8uv1h1mvq",
+      "TXT: atlassian-domain-verification=Sn5AwyIdVgkaRaJA/IKj7ZFMnWeCBnppa9bXGLuJvsakRHH4lYoBxS8g7GVlud9M",
+      "TXT: v=MCPv1; k=ecdsap384; p=A8a5Z0fMroXSzLT+NXb33SxWJZ7UTZdFO3qcknLCGeGpLOLeFpxT4YamxRLfZKUaHg==",
+      "TXT: openai-domain-verification=dv-sFtCvKOlWoe31gpoSvs7cqsP",
+      "TXT: v=MCPv1; k=ecdsap384; p=AorzdBrk9vGOZL9e5z5QMIwNhati9xM/jjeNpBQkzfdZ6nhG6KQTaVQRBr06xvTvIg==",
+      "TXT: hpe-greenlake-domain-verification=495143304a3330533363357a57684f6335556f316f55654675523541464d3954",
+      "TXT: v=MCPv1; k=ecdsap384; p=AzTrmHtbRqr8G+xzm+T4LvNfN5678x6/tlK7kC2enHfH73WkH6AHXsQeXog0+RVjlg=="
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T14:33:43.860861",
+    "target": "microsoft.com",
+    "type": "NS",
+    "results": [
+      "Nameserver: ns1-39.azure-dns.com.",
+      "Nameserver: ns2-39.azure-dns.net.",
+      "Nameserver: ns3-39.azure-dns.org.",
+      "Nameserver: ns4-39.azure-dns.info."
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T14:35:11.819956",
+    "target": "microsoft.com",
+    "type": "NS",
+    "results": [
+      "Nameserver: ns1-39.azure-dns.com.",
+      "Nameserver: ns2-39.azure-dns.net.",
+      "Nameserver: ns3-39.azure-dns.org.",
+      "Nameserver: ns4-39.azure-dns.info."
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T14:36:56.836357",
+    "target": "13.107.213.48",
+    "type": "REVERSE",
+    "results": [
+      "No PTR record found"
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T14:38:15.356805",
+    "target": "13.107.213.48",
+    "type": "REVERSE",
+    "results": [
+      "No PTR record found"
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T14:38:50.975015",
+    "target": "microsoft.com",
+    "type": "A",
+    "results": [
+      "IP: 13.107.246.48",
+      "IP: 13.107.213.48"
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T14:39:15.946493",
+    "target": "13.107.246.48",
+    "type": "REVERSE",
+    "results": [
+      "No PTR record found"
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T14:43:33.197387",
+    "target": "facebook.com",
+    "type": "A",
+    "results": [
+      "IP: 57.144.48.1"
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T14:43:57.280371",
+    "target": "facebook.com",
+    "type": "MX",
+    "results": [
+      "Priority: 10 \u2192 smtpin.vvv.facebook.com."
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T14:44:56.354562",
+    "target": "facebook.com",
+    "type": "MX",
+    "results": [
+      "Priority: 10 \u2192 smtpin.vvv.facebook.com."
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T14:45:10.986390",
+    "target": "facebook.com",
+    "type": "TXT",
+    "results": [
+      "TXT: google-site-verification=wdH5DTJTc9AYNwVunSVFeK0hYDGUIEOGb-RReU6pJlY",
+      "TXT: google-site-verification=sK6uY9x7eaMoEMfn3OILqwTFYgaNp4llmguKI-C3_iA",
+      "TXT: google-site-verification=A2WZWCNQHrGV_TWwKh6KHY90tY0SHZo_RnyMJoDaG0s",
+      "TXT: facebook-domain-verification=y7isfmi3kzyg1r4wophh9vyb6pgbda",
+      "TXT: zoom-domain-verification=4b2ef4e1-6dee-4483-9869-9bef353fd147",
+      "TXT: v=spf1 redirect=_spf.facebook.com"
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T14:45:34.597184",
+    "target": "facebook.com",
+    "type": "NS",
+    "results": [
+      "Nameserver: b.ns.facebook.com.",
+      "Nameserver: a.ns.facebook.com.",
+      "Nameserver: c.ns.facebook.com.",
+      "Nameserver: d.ns.facebook.com."
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T14:46:21.581597",
+    "target": "facebook.com",
+    "type": "TXT",
+    "results": [
+      "TXT: google-site-verification=wdH5DTJTc9AYNwVunSVFeK0hYDGUIEOGb-RReU6pJlY",
+      "TXT: google-site-verification=sK6uY9x7eaMoEMfn3OILqwTFYgaNp4llmguKI-C3_iA",
+      "TXT: google-site-verification=A2WZWCNQHrGV_TWwKh6KHY90tY0SHZo_RnyMJoDaG0s",
+      "TXT: facebook-domain-verification=y7isfmi3kzyg1r4wophh9vyb6pgbda",
+      "TXT: zoom-domain-verification=4b2ef4e1-6dee-4483-9869-9bef353fd147",
+      "TXT: v=spf1 redirect=_spf.facebook.com"
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T14:46:40.184979",
+    "target": "facebook.com",
+    "type": "NS",
+    "results": [
+      "Nameserver: b.ns.facebook.com.",
+      "Nameserver: a.ns.facebook.com.",
+      "Nameserver: c.ns.facebook.com.",
+      "Nameserver: d.ns.facebook.com."
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T14:47:31.268934",
+    "target": "facebook.com",
+    "type": "NS",
+    "results": [
+      "Nameserver: b.ns.facebook.com.",
+      "Nameserver: a.ns.facebook.com.",
+      "Nameserver: c.ns.facebook.com.",
+      "Nameserver: d.ns.facebook.com."
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T14:48:32.615122",
+    "target": "57.144.48.1",
+    "type": "REVERSE",
+    "results": [
+      "PTR Record: edge-star-mini-shv-02-del3.facebook.com."
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T14:57:56.077101",
+    "target": "google.com",
+    "type": "FULL",
+    "results": [
+      "{'A': ['IP: 172.217.26.46'], 'MX': ['Priority: 10 \u2192 smtp.google.com.'], 'TXT': ['TXT: globalsign-smime-dv=CDYX+XFHUw2wml6/Gb8+59BsH31KzUr6c1l2BPvqKX8=', 'TXT: Z29vZ2xl', 'TXT: work-accounts-domain-verification=Tcj6JjIMZOw2KsSEw2Nt2rLae89tN6', 'TXT: onetrust-domain-verification=0d477fe608074e6f9c12bca7826035cc', 'TXT: google-site-verification=wD8N7i1JTNTkezJ49swvWW48f8_9xveREV4oB-0Hf5o', 'TXT: v=spf1 include:_spf.google.com ~all', 'TXT: docusign=1b0a6754-49b1-4db5-8540-d2c12664b289', 'TXT: google-site-verification=4ibFUgB-wXLQ_S7vsXVomSTVamuOXBiVAzpR5IZ87D0', 'TXT: google-site-verification=TV9-DBe4R80X4v0M4U_bd_J9cpOJM0nikft0jAgjmsQ', 'TXT: facebook-domain-verification=22rm551cu4k0ab0bxsw536tlds4h95', 'TXT: MS=E4A68B9AB2BB9670BCE15412F62916164C0B20BB', 'TXT: onetrust-domain-verification=6d685f1d41a94696ad7ef771f68993e0', 'TXT: apple-domain-verification=30afIBcvSuDV2PLX', 'TXT: cisco-ci-domain-verification=47c38bc8c4b74b7233e9053220c1bbe76bcc1cd33c7acf7acd36cd6a5332004b', 'TXT: docusign=05958488-4752-4ef2-95eb-aa7ba8a3bd0e'], 'NS': ['Nameserver: ns1.google.com.', 'Nameserver: ns4.google.com.', 'Nameserver: ns3.google.com.', 'Nameserver: ns2.google.com.']}"
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T17:06:04.144140",
+    "target": "instagram.com",
+    "type": "FULL",
+    "results": [
+      "{'A': ['IP: 57.144.48.34'], 'MX': ['Priority: 10 \u2192 mxa-00082601.gslb.pphosted.com.', 'Priority: 10 \u2192 mxb-00082601.gslb.pphosted.com.'], 'TXT': ['TXT: ms=ms86975275', 'TXT: hyWdekepiNsp/V9b1JCR+wZDdzbESurl4GqY+FLMfiN+7aeFaway0Art+kNDHeL5OnGZipNeV/iIC+lOONSQVQ==', 'TXT: _yvfspgyfwcjnwgopowc9qjme14c32od', 'TXT: adobe-idp-site-verification=367fda82-a8bb-46cf-9cff-0062d452d229', 'TXT: google-site-verification=_iQgLr68Rdg7YnN2PqOljSG5dnWOFUUXISF9R77fs5c', 'TXT: 4cbb1b68-601f-4801-8e7f-e8f68a4a41dd', 'TXT: nEXgIFIbDifAKlSMQvAhly5SA-vpsAkm5wiOdwdkrzY', 'TXT: google-site-verification=GGtId51KFyq0hqX2xNvt1u0P9Xp0C7k6pp9do49fCNw', 'TXT: facebook-domain-verification=hksvhmzcutq39t1kgpmlx11kt8314q', 'TXT: v=spf1 include:facebookmail.com include:_spf.fb.com -all'], 'NS': ['Nameserver: a.ns.instagram.com.', 'Nameserver: b.ns.instagram.com.', 'Nameserver: d.ns.instagram.com.', 'Nameserver: c.ns.instagram.com.']}"
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T17:06:48.198671",
+    "target": "instagram.com",
+    "type": "FULL",
+    "results": [
+      "{'A': ['IP: 163.70.145.174'], 'MX': ['Priority: 10 \u2192 mxa-00082601.gslb.pphosted.com.', 'Priority: 10 \u2192 mxb-00082601.gslb.pphosted.com.'], 'TXT': ['TXT: ms=ms86975275', 'TXT: hyWdekepiNsp/V9b1JCR+wZDdzbESurl4GqY+FLMfiN+7aeFaway0Art+kNDHeL5OnGZipNeV/iIC+lOONSQVQ==', 'TXT: _yvfspgyfwcjnwgopowc9qjme14c32od', 'TXT: adobe-idp-site-verification=367fda82-a8bb-46cf-9cff-0062d452d229', 'TXT: google-site-verification=_iQgLr68Rdg7YnN2PqOljSG5dnWOFUUXISF9R77fs5c', 'TXT: 4cbb1b68-601f-4801-8e7f-e8f68a4a41dd', 'TXT: nEXgIFIbDifAKlSMQvAhly5SA-vpsAkm5wiOdwdkrzY', 'TXT: google-site-verification=GGtId51KFyq0hqX2xNvt1u0P9Xp0C7k6pp9do49fCNw', 'TXT: facebook-domain-verification=hksvhmzcutq39t1kgpmlx11kt8314q', 'TXT: v=spf1 include:facebookmail.com include:_spf.fb.com -all'], 'NS': ['Nameserver: a.ns.instagram.com.', 'Nameserver: b.ns.instagram.com.', 'Nameserver: d.ns.instagram.com.', 'Nameserver: c.ns.instagram.com.']}"
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T17:24:25.510853",
+    "target": "instagram.com",
+    "type": "FULL",
+    "results": [
+      "{'A': ['Error: The resolution lifetime expired after 5.408 seconds: Server Do53:192.168.43.1@53 answered The DNS operation timed out.; Server Do53:192.168.43.1@53 answered The DNS operation timed out.; Server Do53:192.168.43.1@53 answered The DNS operation timed out.'], 'MX': ['Error: The resolution lifetime expired after 5.411 seconds: Server Do53:192.168.43.1@53 answered The DNS operation timed out.; Server Do53:192.168.43.1@53 answered The DNS operation timed out.; Server Do53:192.168.43.1@53 answered The DNS operation timed out.'], 'TXT': ['DNS query timed out'], 'NS': ['Error: The resolution lifetime expired after 5.408 seconds: Server Do53:192.168.43.1@53 answered The DNS operation timed out.; Server Do53:192.168.43.1@53 answered The DNS operation timed out.; Server Do53:192.168.43.1@53 answered The DNS operation timed out.']}"
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T17:26:31.799183",
+    "target": "instagram.com",
+    "type": "FULL",
+    "results": [
+      "{'A': ['Error: The resolution lifetime expired after 5.408 seconds: Server Do53:192.168.43.1@53 answered The DNS operation timed out.; Server Do53:192.168.43.1@53 answered The DNS operation timed out.; Server Do53:192.168.43.1@53 answered The DNS operation timed out.'], 'MX': ['Error: The resolution lifetime expired after 5.413 seconds: Server Do53:192.168.43.1@53 answered The DNS operation timed out.; Server Do53:192.168.43.1@53 answered The DNS operation timed out.; Server Do53:192.168.43.1@53 answered The DNS operation timed out.'], 'TXT': ['DNS query timed out'], 'NS': ['Error: The resolution lifetime expired after 5.401 seconds: Server Do53:192.168.43.1@53 answered The DNS operation timed out.; Server Do53:192.168.43.1@53 answered The DNS operation timed out.; Server Do53:192.168.43.1@53 answered The DNS operation timed out.']}"
+    ]
+  }
+]
